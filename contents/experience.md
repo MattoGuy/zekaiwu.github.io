@@ -1,21 +1,25 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **国自然联合项目|高强桉木刨花板聚氨酯胶黏剂的研制及其构效关系研究**  
+**2026年1月 – 2029年12月 | 项目骨干**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+负责项目书起草、撰写，胶粘剂的结构设计、合成表征
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### 针对现有胶黏剂存在固化慢、脆性大、施胶与服役性能难以兼顾、界面结合力不足等问题，系统研究胶黏剂化学结构与胶接性能的构效关系，揭示刨花板胶黏剂界面增强机制，攻克胶黏剂综合性能协同提升的难题，为桉木刨花板行业提供关键材料，推动人造板产业向高性能化转型升级，助力广西壮族自治区林业资源的高效利用与可持续发展。
+本人工作：参与技术方案制定和计划书撰写，参与材料测试表征，推动项目实施。
 
 ---
+### **国自然面上项目|高强高弹易熔融纺丝聚氨酯弹性体的研制及其构效关系研究**  
+**2025年1月 – 2028年12月 | 项目骨干**  
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+负责项目书起草、撰写，弹性体的结构设计、合成表征、熔融纺丝
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+#### 氨纶溶液纺丝存在污染大、成本高、效率低的问题。熔融纺丝有望克服上述缺点，然而现有熔纺氨纶强度低、弹性较差，难以满足应用需求。本项目从分子设计层面出发，解决聚氨酯力学性能与加工性能的内在矛盾，研制高强高弹熔纺聚氨酯纤维。
+本人工作：技术方案制定和计划书撰写。相关成果以第一作者在Science Advances发表，发展了一种结合电子效应和拓扑网络设计来调节材料性能的分子策略，有助于开发下一代材料。
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+---
+### **北京化工大学国家重点实验室开放课题 |高强高韧光控愈合聚肟氨酯弹性体**  
+**2024年3月 – 2025年12月 | 项目骨干**  
+
+负责项目书起草、撰写，聚合物的结构设计、理论计算、合成表征
+
+#### 针对传统材料设计中，热力学稳定性，动力学活性和外场响应性通常相互权衡的问题，本项目提出利用配位键极化氢键、拓展共轭结构的双重效应，通过理论计算和实验设计的验证，同时提升了材料的力学、热稳定性、光热响应性和自愈合性能。
+本人工作：技术方案制定和计划书撰写。项目相关成果以第一作者在National Science Review接收；所得材料具有该领域最强的力学和热稳定性能。

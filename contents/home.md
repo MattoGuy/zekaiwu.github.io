@@ -7,14 +7,11 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 <code>XX@XX.XX</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**东华大学(211, 双一流)**, 材料学 · 博士学位 (2020.09 – 2026.06)  
+• 导师: 游正伟教授 (泰山学者)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**宁波工程学院**, 材料科学与工程 · 学士学位 (2016.09-2020.07) 
+• 导师: 杨祚宝教授 
 
 #### Research Interests  
-XX, XX, XX, XX.
+动态高性能聚合物分子设计，聚合物改性，聚合物纤维制备及功能化
