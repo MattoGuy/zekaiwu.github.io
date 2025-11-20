@@ -22,7 +22,7 @@
  
   11. **Wu Z.**, You Z.* et al. Coherent-elastic-wave-propagation elastomers with synergistic resilience and self-healing properties. (In Submission)
  
-  12. **Wu Z.**, You Z.* et al. Construction of Super-strong and Super-tough Elastomers Based on Conjugated Assisted Hydrogen Bonds. (Under Preparation)
+  12. **Wu Z.**, You Z.* et al. Construction of Super-strong and Super-tough Elastomers Based on Hydrogen Bonds. (Under Preparation)
 
 - 游正伟，吴泽凯，一种拓扑结构聚合物，中国发明专利，2024107936891.
 
