@@ -23,7 +23,7 @@
 
 2. 基于配位键提升聚合物热力学、动力学和外场响应性（1篇一作中科院一区Top论文）
   
-  **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2025, Accept. 
+  **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2025, nwaf521, https://doi.org/10.1093/nsr/nwaf521. 
 
 3. 基于弹性波相干传播的超弹自愈合弹性体（1篇一作论文投稿中）
 
