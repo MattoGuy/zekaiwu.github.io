@@ -1,6 +1,6 @@
 - 目前共发表SCI论文 10 余篇 其中 第一作者 论文 3 篇 ，申请国家发明专利 2项
 
-  1. **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2026, 13, nwaf521, https://doi.org/10.1093/nsr/nwaf521. (中科院一区Top, IF: 17.1)
+  1. **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2026, 13, nwaf521. (中科院一区Top, IF: 17.1)
 
   2. **Wu Z.**, You Z.* et al. Dynamic cross-linked topological network reconciles the longstanding contradictory properties of polymers. **_Science Advances_** 2025, 11, eadt0825. (中科院一区Top, IF: 12.5)
  
