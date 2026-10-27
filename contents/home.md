@@ -25,7 +25,7 @@
   
    **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2026, 13, nwaf521. 
 
-3. 基于增强氢键构筑超强、超韧弹性体（1篇一作论文投稿中）
+3. 基于硫族键锁定构象诱导共振辅助氢键构筑超强超韧聚氨酯弹性体（1篇一作中科院一区Top论文）
    
    **Wu Z.**, You Z.* et al. Chalcogen Bond-Induced Conformational Locking for Thermoplastic Polyurethane With Superior Puncture Force and Fracture Energy. **_Angewandte Chemie International Edition_**, 2026, 65, e5493523.
 
