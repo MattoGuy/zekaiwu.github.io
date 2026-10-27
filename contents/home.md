@@ -1,4 +1,4 @@
-我正在寻求聚合物设计、合成和改性方向相关的博后或者教职，如有合适，敬请联系！
+我正在寻求聚合物设计、合成和改性方向相关的教职或者研究员岗位，如有合适，敬请联系！
 
 ## Email  
 <code>wuzeekai@126.com</code>  
@@ -6,7 +6,7 @@
 
 
 ## Education  
-**东华大学(211, 双一流)** | 材料学 | 博士学位 (2020.09 – 2026.06) | 导师: 游正伟教授 (上海领军人才)
+**东华大学(211, 双一流)** | 材料学 | 博士学位 (2020.09 – 2026.06) | 导师: 游正伟教授 (长江特聘)
 
 
 **宁波工程学院** | 材料科学与工程 | 学士学位 (2016.09-2020.07) | 导师: 杨祚宝副教授 
@@ -23,9 +23,11 @@
 
 2. 基于配位键提升聚合物热力学、动力学和外场响应性（1篇一作中科院一区Top论文）
   
-  **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2025, nwaf521, https://doi.org/10.1093/nsr/nwaf521. 
+  **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2026, 13, nwaf521. 
 
-3. 基于弹性波相干传播的超弹自愈合弹性体（1篇一作论文投稿中）
+3. 基于增强氢键构筑超强、超韧弹性体（1篇一作论文投稿中）
+   
+   **Wu Z.**, You Z.* et al. Chalcogen Bond-Induced Conformational Locking for Thermoplastic Polyurethane With Superior Puncture Force and Fracture Energy. **_Angewandte Chemie International Edition_**, 2026, 65, e5493523.
 
-4. 基于增强氢键构筑超强、超韧弹性体（1篇一作论文投稿中）
+5. 基于弹性波相干传播的超弹自愈合弹性体（1篇一作论文投稿中）
 
