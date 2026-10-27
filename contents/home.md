@@ -19,11 +19,11 @@
 
 1. 动态交联拓扑网络实现聚合物高性能与易加工的统一（1篇一作中科院一区Top论文）
   
-  **Wu Z.**, You Z.* et al. Dynamic cross-linked topological network reconciles the longstanding contradictory properties of polymers. **_Science Advances_** 2025, 11, eadt0825.
+   **Wu Z.**, You Z.* et al. Dynamic cross-linked topological network reconciles the longstanding contradictory properties of polymers. **_Science Advances_** 2025, 11, eadt0825.
 
 2. 基于配位键提升聚合物热力学、动力学和外场响应性（1篇一作中科院一区Top论文）
   
-  **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2026, 13, nwaf521. 
+   **Wu Z.**, You Z.* et al. Ultrastable, supertough and photohealable polymer networks. **_National Science Review_** 2026, 13, nwaf521. 
 
 3. 基于增强氢键构筑超强、超韧弹性体（1篇一作论文投稿中）
    
